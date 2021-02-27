@@ -1,0 +1,7 @@
+node_modules
+*.log
+src/images/meta/*.xml
+src/images/meta/*.webmanifest
+src/images/meta/*.ico
+src/images/meta/*.html
+src/images/meta/*.md
